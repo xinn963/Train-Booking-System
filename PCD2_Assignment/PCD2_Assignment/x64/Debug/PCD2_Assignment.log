@@ -1,0 +1,59 @@
+﻿  assignment.c
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(226,3): warning C4013: 'main' undefined; assuming extern returning int
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2662,48): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2662,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2666,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[13]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2666,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2670,47): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[3]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2670,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2678,55): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[11]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2678,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2682,49): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2682,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2701,52): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2701,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2704,53): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2704,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2707,53): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2707,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2710,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2710,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2741,53): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[13]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2741,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2774,64): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2774,31): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2921,45): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2921,28): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2925,43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[13]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2925,28): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2929,44): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[3]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2929,28): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2937,52): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[11]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2937,28): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2941,46): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2941,28): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2961,49): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2961,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2964,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2964,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2967,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2967,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2970,47): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(2970,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(3004,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[13]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(3004,29): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(3036,61): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(3036,30): warning C4024: 'modifyEditTable': different types for formal and actual parameter 2
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4004,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4041,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4078,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4111,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4127,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4145,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(4527,34): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(5762,4): warning C4013: 'rintf' undefined; assuming extern returning int
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(5879,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(5907,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(6177,17): warning C4101: 'cont': unreferenced local variable
+C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\PCD2_Assignment\assignment.c(6355,17): warning C4101: 'cont': unreferenced local variable
+  PCD2_Assignment.vcxproj -> C:\Users\chong\Downloads\PCD2_Assignment\PCD2_Assignment\x64\Debug\PCD2_Assignment.exe

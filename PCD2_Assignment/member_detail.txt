@@ -1,0 +1,13 @@
+alvin|alvin1010|Alvin Lee|24|M|000520141414|0102345678|alvinl@gmail.com|basketball|none|black
+jolly|jolly012|Jolly Ong|30|F|940128895245|0123334455|jollyong@gmail.com|reading|perodua myvi|red
+jenny|123jenny|Jenny Tan|19|F|050229050505|019558802|jennyt@gmail.com|volleyball|proton saga|pink
+abu|12abu12|Mohammad Abu|25|M|990205895224|0156589412|abu@gmail.com|football|perodua axia|blue
+ahkao|kao1205|Tan Ah Kao|18|M|041205121205|0173684259|ahkao@gmail.com|games|none|white
+alex|alex0923|Alex Tan|19|M|050923541509|016234892|alextan@gmail.com|work|myvi|blue
+kelvin|kelv0423|Kelvin Lee|40|M|840423895625|0195628343|kelvinlee@gmail.com|badminton|persona|black
+joanne|hello1234|Joanne Liew|23|F|010708564225|0164538921|joanneliew@gmail.com|reading|none|red
+john|pass231|John Smith|44|M|800929874525|013482654|johnsmith@gmail.com|travel|civic|cyan
+christ|123456abc|Christophe Lee|28|M|960222202222|0122245222|christlee@gmail.com|sleep|vios|black
+CLQ|abc123|Chong Li Qian|18|M|051025050505|0123456789|chonglq@gmail.com|badminton|none|blue
+m001|abc12345|alley|19|F|050916011234|0124683579|alley@gmail.com|read|kancil|blue
+YX|abc12345|Yong Xin|18|F|050918011234|012567831|yongxin@gmail.com|read|myvi|a
